@@ -1,39 +1,40 @@
 ﻿using System;
 
-namespace Palindromy
+namespace SymulacjaRzutuKostka
 {
     class Program
     {
-        static void Menu()
-        {
-            Console.WriteLine("1.Check if a word is a palindrome");
-            Console.WriteLine("2.Palindrome Examples");
-            Console.WriteLine("3.Exit");
-        }
         static void Main(string[] args)
         {
+            Random random = new Random();
+            
             while (true)
             {
-                Menu();
+                Console.WriteLine("1.Throw a Dice");
+                Console.WriteLine("2.Throw a Dice Twice");
+                Console.WriteLine("3.Exit");
                 string input = Console.ReadLine();
-                
                 switch (input)
                 {
-                    case "1":
-                        Console.Write("Type word to check: ");
-                        string isPalindrome = Console.ReadLine();
-                        Palindrome.PalindromeCheck(isPalindrome);
+                    case "1":                        
+                        int numberOfMeshes = random.Next(1, 6);
+                        Dice.ThrowDice(numberOfMeshes);
                         break;
                     case "2":
-                        Palindrome.PalindromeExamples();
+                        int numberOfMeshes1 = random.Next(1, 6);
+                        int numberOfMeshes2 = random.Next(1, 6);
+                        Dice.ThrowDice(numberOfMeshes1);
+                        Dice.ThrowDice(numberOfMeshes2);
                         break;
                     case "3":
                         Environment.Exit(0);
                         break;
+                    default:
+                        Console.WriteLine("Wrong Input");
+                        break;
                 }
                 Console.ReadLine();
-                Console.Clear();          
-                        
+                Console.Clear();
             }
         }
     }
