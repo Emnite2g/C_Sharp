@@ -1,0 +1,13 @@
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.exe
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.deps.json
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.runtimeconfig.dev.json
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.dll
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\bin\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.pdb
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.dll
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.pdb
+C:\Users\Krzysiek\source\repos\Gra_Zgadywanie_Liczby\obj\Debug\netcoreapp3.1\Gra_Zgadywanie_Liczby.genruntimeconfig.cache
