@@ -1,0 +1,7 @@
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\obj\Debug\Converting_Units.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\obj\Debug\Converting_Units.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\bin\Debug\Converting_Units.exe.config
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\bin\Debug\Converting_Units.exe
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\bin\Debug\Converting_Units.pdb
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\obj\Debug\Converting_Units.exe
+C:\Users\Krzysiek\source\repos\Converting_UnitsApp\Converting_Units\obj\Debug\Converting_Units.pdb
