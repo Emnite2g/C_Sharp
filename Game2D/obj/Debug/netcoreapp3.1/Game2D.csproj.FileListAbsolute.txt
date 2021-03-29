@@ -1,0 +1,13 @@
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.exe
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.deps.json
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.runtimeconfig.dev.json
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.dll
+C:\Users\Krzysiek\source\repos\Game2D\bin\Debug\netcoreapp3.1\Game2D.pdb
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.csprojAssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.dll
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.pdb
+C:\Users\Krzysiek\source\repos\Game2D\obj\Debug\netcoreapp3.1\Game2D.genruntimeconfig.cache
